@@ -17,7 +17,7 @@ const AboutUsDetails = lazy(() =>
 const ActivityDetails = lazy(() =>
   import('../components/Activity/ActivityItem/ActivityDetails/ActivityDetails')
 );
-const Questionary = lazy(() => import('./Home/Home'));
+const Questionary = lazy(() => import('./Questionary/Questionary'));
 
 export const App = () => {
   return (
