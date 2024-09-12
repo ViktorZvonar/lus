@@ -1,0 +1,97 @@
+[
+    {
+        "id": "1",
+        "name": "Nasza misja",
+        "title": "",
+        "photo": "/images/OfferItems/SZ.jpg",
+        "url": "/details/misja",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Lepszy świat dzięki edukacji",
+        "title": "",
+        "photo": "/images/OfferItems/FI.jpg",
+        "url": "/details/lepszy-świat",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Spotykamy ze sobą ludzi, żeby mogli porozmawiać i uczyć się od siebie wzajemnie",
+        "title": "",
+        "photo": "/images/OfferItems/CI.jpg",
+        "url": "/details/uczyć-się-od-siebie",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Zamieniamy „muszę się uczyć” na „chcę się uczyć”",
+        "title": "",
+        "photo": "/images/OfferItems/CI.jpg",
+        "url": "/details/zamieniamy",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Nasze cele",
+        "title": "",
+        "photo": "/images/OfferItems/CI.jpg",
+        "url": "/details/cele",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    }
+]

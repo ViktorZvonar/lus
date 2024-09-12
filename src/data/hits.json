@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Obiad szkolny",
+    "title": "17 zł (w termosach)",
+    "photo": "/images/Hits/Szkola.png"
+  },
+  {
+    "id": 2,
+    "name": "Abonament pracowniczy",
+    "title": "390 zł (20 dni)",
+    "photo": "/images/Hits/Abonament.png"
+  }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id": "1",
+        "name": "Językowe wtorki",
+        "title": "",
+        "photo": "/images/OfferItems/SZ.jpg",
+        "url": "/details/wtorki",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": "Kursy j. angielskiego"
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": "Kursy j. niemieckiego"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Czwartkowe spotkania prawie naukowe",
+        "title": "",
+        "photo": "/images/OfferItems/FI.jpg",
+        "url": "/details/spotkania",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Wzajemne uczenie się",
+        "title": "",
+        "photo": "/images/OfferItems/CI.jpg",
+        "url": "/details/wzajemne-uczenie-się",
+        "subItems": [
+            {
+                "subItemId": "1",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            },
+            {
+                "subItemId": "2",
+                "urlDetails": "",
+                "urlDetailsTitle": ""
+            }
+        ]
+    }
+]

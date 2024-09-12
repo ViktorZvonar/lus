@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  margin: 0px auto;
+  padding: 0 10px;
+}
+
+@media (max-width: 320px) {
+  .container {
+    max-width: 320px;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 769px) {
+  .container {
+    max-width: 1280px;
+  }
+}

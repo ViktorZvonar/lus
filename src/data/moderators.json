@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Krzysztof Kotkiewicz",
+    "title": "Specjalista d/s gospodarczych",
+    "photo": "/images/Pracownicy/kotkievicz.png"
+  },
+  {
+    "id": 2,
+    "name": "Anna Stafińska    ",
+    "title": "Manager d/s gastronomii",
+    "photo": "/images/Pracownicy/stafinska.png"
+  }
+]
