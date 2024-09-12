@@ -3,7 +3,7 @@ import styles from './Home.module.css';
 // import Moderators from 'components/Moderators/Moderators';
 // import Hits from 'components/Hits/Hits';
 
-import mainPhoto from '../../images/o-nas.jpg';
+// import mainPhoto from '../../images/o-nas.jpg';
 
 function Home() {
   return (

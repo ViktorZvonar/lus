@@ -3,8 +3,6 @@ import styles from './Questionary.module.css';
 // import Moderators from 'components/Moderators/Moderators';
 // import Hits from 'components/Hits/Hits';
 
-import mainPhoto from '../../images/o-nas.jpg';
-
 function Home() {
   return (
     <main>

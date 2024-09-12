@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import logo1 from '../../images/catering-new-logo.png';
-import logo4 from '../../images/eduq-logo-removebg-preview.png';
+// import logo1 from '../../images/catering-new-logo.png';
+// import logo4 from '../../images/eduq-logo-removebg-preview.png';
 
 import styles from './Header.module.css';
 import { useMedia } from '../../hooks/useMedia';
