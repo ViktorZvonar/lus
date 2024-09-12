@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[318],{318:function(e,n,s){s.r(n),s.d(n,{default:function(){return r}});s(791);var a="Questionary_h1__cFeRH",c="Questionary_firstSection__GcEvv",i=s(184);var r=function(){return(0,i.jsx)("main",{children:(0,i.jsx)("section",{className:c,children:(0,i.jsx)("h1",{className:a,children:"Witamy!"})})})}}}]);
+//# sourceMappingURL=318.4bcd28db.chunk.js.map
