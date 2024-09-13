@@ -1,5 +1,11 @@
 import React from 'react';
 import styles from './Kontakts.module.css';
+
+import facebookLogo from '../../images/facebook-logo.png';
+import twitterLogo from '../../images/X.png';
+import instagramLogo from '../../images/instagram-logo.png';
+import LinkedInLogo from '../../images/LinkedIn-logo.png';
+
 // import ContactForm from 'components/Form/Form';
 
 function Kontakts() {
@@ -9,11 +15,59 @@ function Kontakts() {
         <h1 className={styles.h1}>Skontaktuj się z nami</h1>
         <p className={styles.p}>ul. Krzywoustego 1, 84-300, Lębork</p>
         <p className={styles.clickableContact}>
-          <a href="tel:+48662219626"> +00000000000000</a>
+          <a href="tel:+000000000000"> +00000000000000</a>
         </p>
         <p className={`${styles.clickableContact} ${styles.last}`}>
           <a href="mailto:lus@lebork.pl"> lus@lebork.pl</a>
         </p>
+
+        <div className={styles.contactsIcons}>
+          <a
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={facebookLogo} style={{ width: '25px',
+              borderRadius: '5px'
+             }} alt="facebook" />
+          </a>
+          <a
+            href="https://x.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={twitterLogo} style={{ width: '25px',
+              borderRadius: '5px'
+             }}  alt="twitter" />
+          </a>
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={instagramLogo}
+              style={{ width: '25px',
+                borderRadius: '5px'
+               }} 
+              alt="instagram"
+            />
+          </a>
+          <a
+            href="https://www.linkedin.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={LinkedInLogo}
+              style={{ width: '25px',
+                borderRadius: '5px'
+               }} 
+              alt="instagram"
+            />
+          </a>
+        </div>
+
       </section>
       <section className={styles.secondSection}>
         <iframe
