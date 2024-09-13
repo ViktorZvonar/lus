@@ -1,6 +1,6 @@
 import React from 'react';
-// import { NavLink } from 'react-router-dom';
-// import logo1 from '../../images/catering-new-logo.png';
+import { NavLink } from 'react-router-dom';
+import logo1 from '../../images/logoLUS.png';
 
 import styles from './Footer.module.css';
 
@@ -8,9 +8,9 @@ function Footer() {
   return (
     <footer className={styles.footer}>
       <div className={styles.logos}>
-        {/* <NavLink to="/">
+        <NavLink to="/">
           <img src={logo1} alt="Logo 1" className={styles.logo1} />
-        </NavLink> */}
+        </NavLink>
       </div>
       <p className={styles.disclaimer}>
         <a target="blank" href="https://maps.app.goo.gl/yegTGRHq9R9fDZDh7">

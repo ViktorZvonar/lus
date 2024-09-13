@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-// import logo1 from '../../images/catering-new-logo.png';
+import logo1 from '../../images/logoLUS.png';
 // import logo4 from '../../images/eduq-logo-removebg-preview.png';
 
 import styles from './Header.module.css';
@@ -32,14 +32,7 @@ function Header() {
         ></div>
       )}
 
-      {/* <NavLink to="/">
-        <img
-          src={logo1}
-          alt="Logo 1"
-          className={`${styles.logo1} ${styles.logo}`}
-        />
-      </NavLink> */}
-
+  
       <nav className={styles.nav}>
         {isFromWidth1280 && (
           <div className={styles.naContent}>
@@ -115,6 +108,14 @@ function Header() {
           </li>
         )}
       </nav>
+
+      <NavLink to="/">
+        <img
+          src={logo1}
+          alt="Logo 1"
+          className={`${styles.logo1} ${styles.logo}`}
+        />
+      </NavLink> 
 
       {/* <a
         className={styles.logoLinkInvisible}
