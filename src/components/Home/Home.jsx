@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Home.module.css';
+// import styles from './Home.module.css';
 // import Moderators from 'components/Moderators/Moderators';
 // import Hits from 'components/Hits/Hits';
 
