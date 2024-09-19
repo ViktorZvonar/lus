@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[433],{11:function(e,n,c){c.r(n),c.d(n,{default:function(){return i}});c(791);var s="Home_h1__vCMbb",a="Home_firstSection__qDrPZ",r=c(184);var i=function(){return(0,r.jsx)("main",{children:(0,r.jsx)("section",{className:a,children:(0,r.jsx)("h1",{className:s,children:"Aktualno\u015bci"})})})}}}]);
-//# sourceMappingURL=433.5ae38a9c.chunk.js.map
