@@ -8,10 +8,10 @@ import styles from './Home.module.css';
 function Home() {
   return (
     <main>
-      <section className={styles.firstSection}>
+      {/* <section className={styles.firstSection}>
         <h1 className={styles.h1}>Aktualności</h1>
-        {/* <img className={styles.mainPhoto} src={mainPhoto} alt="o nas" /> */}
-      </section>
+        <img className={styles.mainPhoto} src={mainPhoto} alt="o nas" />
+      </section> */}
 
       {/* <section className={styles.moderatorsSection}>
         <h2 className={styles.h2}>Nasze przeboje</h2>

@@ -23,7 +23,7 @@
 .offerCard:hover {
   transform: scale(1.02);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
-  background-color: #a200ff;
+  background-color: #343d7d;
   border: none;
   color: #f8f9fa;
 }
@@ -43,7 +43,7 @@
 }
 
 .offerCard:hover .offerName {
-  background-color: black;
-  padding: 0 20px 0 20px;
-  border-radius: 15px;
+  background-color:#e21a22;
+  padding: 0 5px 0 5px;
+  border-radius: 5px;
 }

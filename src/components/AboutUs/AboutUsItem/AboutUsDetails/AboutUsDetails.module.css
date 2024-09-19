@@ -23,7 +23,7 @@
 .offerCard:hover {
   transform: scale(1.02);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
-  background-color: #ff8f00;
+  background-color: #343d7d;
   border: none;
   color: #f8f9fa;
 }

@@ -2,9 +2,9 @@ import React from 'react';
 import styles from './Kontakts.module.css';
 
 import facebookLogo from '../../images/facebook-logo.png';
-import twitterLogo from '../../images/X.png';
+// import twitterLogo from '../../images/X.png';
 import instagramLogo from '../../images/instagram-logo.png';
-import LinkedInLogo from '../../images/LinkedIn-logo.png';
+// import LinkedInLogo from '../../images/LinkedIn-logo.png';
 
 // import ContactForm from 'components/Form/Form';
 
@@ -31,7 +31,7 @@ function Kontakts() {
               borderRadius: '5px'
              }} alt="facebook" />
           </a>
-          <a
+          {/* <a
             href="https://x.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -39,7 +39,7 @@ function Kontakts() {
             <img src={twitterLogo} style={{ width: '25px',
               borderRadius: '5px'
              }}  alt="twitter" />
-          </a>
+          </a> */}
           <a
             href="https://www.instagram.com/"
             target="_blank"
@@ -53,7 +53,7 @@ function Kontakts() {
               alt="instagram"
             />
           </a>
-          <a
+          {/* <a
             href="https://www.linkedin.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -65,7 +65,7 @@ function Kontakts() {
                }} 
               alt="instagram"
             />
-          </a>
+          </a> */}
         </div>
 
       </section>

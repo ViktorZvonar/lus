@@ -33,17 +33,17 @@
 }
 
 .h1 {
-  font-family: 'Pacifico';
+
   text-align: center;
   margin-bottom: 10px;
-  color: #a200ff;
+  color:#343d7d;
 }
 
 .secondSection {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: #a200ff 2px solid;
+  border: #343d7d 2px solid;
   overflow: hidden;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
 }
@@ -65,7 +65,7 @@
 }
 
 .clickableContact {
-  background-color: #a200ff;
+  background-color: #343d7d;
   padding: 0 20px 0 20px;
   border-radius: 15px;
   color: white;
@@ -73,7 +73,7 @@
 
 .clickableContact:hover,
 .clickableContact:focus {
-  background-color: black;
+  background-color: #e21a22;
   padding: 0 20px 0 20px;
   border-radius: 15px;
   color: white;

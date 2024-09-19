@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import AboutUsData from '../../../../data/AboutUs.json';
-import styles from '././AboutUs.module.css';
+import styles from '././AboutUsDetails.module.css';
 
 function AboutUsDetails() {
   const { id } = useParams();
